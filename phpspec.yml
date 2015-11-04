@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: SnapShot
+        psr4_prefix: SnapShot
+        src_path: app
